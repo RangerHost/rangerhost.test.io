@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Treatise on Ontology and Political Philosophy
 
 ### More Information
 
