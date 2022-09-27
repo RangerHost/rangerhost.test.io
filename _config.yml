@@ -76,10 +76,16 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - not-pure-poole
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
 
 # Exclude these files from your production _site
 exclude:
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
