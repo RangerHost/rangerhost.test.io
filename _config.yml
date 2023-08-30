@@ -1,11 +1,12 @@
 # Setup
 title: Forest Ranger
-description: Political Philosophy
+description:
 url:
 avatar: https://raw.githubusercontent.com/RangerHost/rangerhost.github.io/master/images/P1010529.JPG
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+cover_color: rgb(255, 255, 255)
 
 # Gems
 plugins:
